@@ -4,7 +4,7 @@ Your source for the dankest memes on the internet.
 
 ## Company History
 
-![Simpsons Meme](sued.png)
+![Simpsons Meme](profile/sued.png)
 
 Fooli was founded by our great leader Balvin Gelson. Fooli has been funded by Bessmer Venture Partners, Greycroft, and Andreessen Horowitz. It recently secured a mezzanine funding round of $160M from Bain Capital Venture, placing Fooli’s valuation at over US$8 Billion.
 
